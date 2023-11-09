@@ -1,7 +1,3 @@
-from dash import html, dcc, Dash
-import dash_table
-from dash.dependencies import Input, Output
-import plotly.express as px
 import dash
 from dash import dcc
 from dash import html
@@ -13,8 +9,6 @@ import dash_bootstrap_components as dbc
 import numpy as np
 import requests
 import plotly as pl
-import plotly.express as px
-from dash import Dash, dcc, html, dash_table, Input, Output
 
 df = pd.read_excel("unificado.xlsx")
 
