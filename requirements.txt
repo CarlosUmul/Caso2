@@ -4,8 +4,5 @@ requests
 plotly
 plotly.express
 dash
-dash.dash_table
-dash.Input
-dash.Output
 gunicorn
 dash_bootstrap_components
