@@ -4,8 +4,6 @@ requests
 plotly
 plotly.express
 dash
-dash.dcc
-dash.html
 dash.dash_table
 dash.Input
 dash.Output
